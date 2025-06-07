@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: minseoky-mcp-toolkit
+    version: 0.0.1
+
+mcp:
+  protocol-version: 2024-11-05
+  capabilities:
+    prompts:
+      list-changed: false
+    resources:
+      subscribe: false
+      list-changed: false
+    tools:
+      list-changed: false
